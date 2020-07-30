@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img>https://pa1.narvii.com/6329/4498aa0e53cf084c7e7ddbfd44d9ce94f92fd7e8_00.gif</img>
+
 <!--
 **fonz626/fonz626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
